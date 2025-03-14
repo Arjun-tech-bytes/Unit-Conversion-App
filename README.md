@@ -1,14 +1,13 @@
-# Unit-Conversion-App
-A Unit Converter built using Python (PyQt5) that allows users to easily convert between different units such as Weight, Length, Temperature, Time, Speed, Data Storage, and Area.
+# Unit-Conversion-App:- Unit Converter built using Python (PyQt5) that allows users to easily convert between different units such as Weight, Length, Temperature, Time, Speed, Data Storage, and Area.
 
 
 🚀 Features
-✅ Graphical User Interface (GUI) powered by PyQt5
-✅ Supports multiple unit categories (Weight, Length, Temperature, etc.)
-✅ Dynamic unit selection based on chosen category
-✅ Accurate unit conversion logic
-✅ Error handling for invalid inputs
-✅ Styled UI with proper spacing and colors
+1. Graphical User Interface (GUI) powered by PyQt5  
+2. Supports multiple unit categories (Weight, Length, Temperature, etc.)  
+3. Dynamic unit selection based on the chosen category  
+4. Accurate unit conversion logic  
+5. Error handling for invalid inputs  
+6. Styled UI with proper spacing and colors  
 
 
 🖥 Installation:
@@ -23,7 +22,7 @@ Run the application:
 python main.py
 
 
-📸 Screenshots
+📸 Screenshots :
 ![Screenshot 2025-03-12 211251](https://github.com/user-attachments/assets/3f9d9506-fa20-43bb-8177-841e4e473d7b)
 
 
