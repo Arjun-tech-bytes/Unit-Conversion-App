@@ -24,7 +24,7 @@ python main.py
 
 
 📸 Screenshots
-![Screenshot 2025-03-12 211251](https://github.com/user-attachments/assets/4ea5ce26-189a-4aea-a62d-b41d15176b5f)
+![Screenshot 2025-03-12 211251](https://github.com/user-attachments/assets/3f9d9506-fa20-43bb-8177-841e4e473d7b)
 
 
 🛠 How It Works :
@@ -34,11 +34,11 @@ python main.py
 4.  Click Convert to get the result instantly.
 
    
-📌 Unit Categories Supported
-    Weight (Kilograms, Grams, Pounds, etc.)
-    Length (Meters, Feet, Inches, etc.)
-    Temperature (Celsius, Fahrenheit, Kelvin)
-    Time (Seconds, Minutes, Hours)
-    Speed (m/s, km/h, mph)
-    Data Storage (Bytes, Kilobytes, Megabytes, etc.)
-    Area (Square Meters, Square Feet, etc.)
+📌 Unit Categories Supported :-
+  1.  Weight (Kilograms, Grams, Pounds, etc.)
+  2.  Length (Meters, Feet, Inches, etc.)
+  3.  Temperature (Celsius, Fahrenheit, Kelvin)
+  4.  Time (Seconds, Minutes, Hours)
+  5.  Speed (m/s, km/h, mph)
+  6.  Data Storage (Bytes, Kilobytes, Megabytes, etc.)
+  7.  Area (Square Meters, Square Feet, etc.)
